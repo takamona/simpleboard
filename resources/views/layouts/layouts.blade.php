@@ -17,9 +17,6 @@
         @component('components.footer')
         @endcomponent
         
-        
-        
-        
          <script src="{{ mix('js/app.js') }}"></script>
     </body>
 </html>
